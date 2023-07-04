@@ -137,7 +137,6 @@ section .title::after {
   font-size: 23px;
   cursor: pointer;
   display: none;
-  /* border: 2px solid red; */
 }
 .scroll-up-btn {
   position: fixed;
@@ -205,7 +204,7 @@ section .title::after {
 .home .home-content a {
   display: inline-block;
   background: #fa5b0f;
-  color: #fff;
+  color: #f7d6a5;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
@@ -610,7 +609,7 @@ footer span a:hover {
     display: block;
     z-index: 999;
   }
- .menu-btn i.active:before {
+  .menu-btn i.active:before {
     content: "\f00d";
   }
   .navbar .menu {

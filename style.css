@@ -720,7 +720,7 @@ footer span a:hover {
 }
 
 /* CSS */
-.liveBtn {
+#liveBtn {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -740,7 +740,7 @@ footer span a:hover {
   touch-action: manipulation;
 }
 
-.liveBtn:hover {
+#liveBtn:hover {
   background-color: #f1f1f1;
   color: #333;
 }
@@ -779,7 +779,7 @@ footer span a:hover {
   margin-top: 30px;
 }
 
-.techstack {
+#techstack {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   width: 90%;
@@ -912,7 +912,7 @@ margin-top: 20px;
 
 
 
-.techstackk {
+#techstackk {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   width: 90%;
